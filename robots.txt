@@ -1,0 +1,7 @@
+Host: https://verif213.com
+
+User-agent: Yandex
+Allow: /
+
+User-agent: *
+Allow: /
